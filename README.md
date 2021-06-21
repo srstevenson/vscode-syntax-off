@@ -16,8 +16,7 @@ in an otherwise light theme).
 
 ## Installation
 
-Syntax Off is available in the [Visual Studio Marketplace][marketplace]. To
-install it, click [here][installer].
+Syntax Off can be installed from the [Visual Studio Marketplace][marketplace].
 
 ## Copyright
 
@@ -25,7 +24,6 @@ Copyright © 2021 [Scott Stevenson].
 
 Syntax Off is distributed under the terms of the [ISC licence].
 
-[installer]: vscode:extension/srstevenson.syntax-off
 [isc licence]: https://opensource.org/licenses/ISC
 [marketplace]:
   https://marketplace.visualstudio.com/items?itemName=srstevenson.syntax-off
