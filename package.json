@@ -1,0 +1,36 @@
+{
+  "name": "syntax-off",
+  "displayName": "Syntax Off",
+  "description": "A theme that turns off syntax highlighting",
+  "version": "0.0.1",
+  "publisher": "srstevenson",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/srstevenson/vscode-syntax-off"
+  },
+  "bugs": {
+    "url": "https://github.com/srstevenson/vscode-syntax-off/issues"
+  },
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.57.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Syntax Off Light",
+        "uiTheme": "vs",
+        "path": "./themes/syntax-off-light-color-theme.json"
+      },
+      {
+        "label": "Syntax Off Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/syntax-off-dark-color-theme.json"
+      }
+    ]
+  }
+}
