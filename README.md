@@ -14,11 +14,19 @@ in an otherwise light theme).
 | :------------------------------: | :-----------------------------: |
 | ![](images/syntax-off-light.png) | ![](images/syntax-off-dark.png) |
 
+## Installation
+
+Syntax Off is available in the [Visual Studio Marketplace][marketplace]. To
+install it, click [here][installer].
+
 ## Copyright
 
 Copyright © 2021 [Scott Stevenson].
 
 Syntax Off is distributed under the terms of the [ISC licence].
 
+[installer]: vscode:extension/srstevenson.syntax-off
 [isc licence]: https://opensource.org/licenses/ISC
+[marketplace]:
+  https://marketplace.visualstudio.com/items?itemName=srstevenson.syntax-off
 [scott stevenson]: https://scott.stevenson.io
