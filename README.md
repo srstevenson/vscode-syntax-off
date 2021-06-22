@@ -1,3 +1,5 @@
+<img src="images/icon.png" width=150 align="right">
+
 # Syntax Off
 
 Syntax Off is a Visual Studio Code theme that removes syntax highlighting. Two
